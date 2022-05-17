@@ -48,4 +48,22 @@ cursor: pointer;
 .categories img{
  width: 100px;
 }
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+    border-radius: 10px;
+}
+#Subscribe{
+    height: 300px;
+}
+h6{
+    color: #ff136f;
+}
+footer{
+       text-align: center;
+}
 
